@@ -1,4 +1,4 @@
-#*Belly_Button Dashboard*
+# Belly_Button Dashboard
 
 
 This project included extensive data on different subjects identified by an ID number.  It was recorded how many times they washed their belly button and then later the different types of bacteria grown from a culture of their umbilicus.  
